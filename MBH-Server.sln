@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBH-Server", "MBH-Server\MBH-Server.csproj", "{B599AEF7-F001-4638-BF53-36BD00D47D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B599AEF7-F001-4638-BF53-36BD00D47D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B599AEF7-F001-4638-BF53-36BD00D47D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B599AEF7-F001-4638-BF53-36BD00D47D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B599AEF7-F001-4638-BF53-36BD00D47D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C6AF6B-9B7A-459A-B5A5-FD979FC53600}
+	EndGlobalSection
+EndGlobal
